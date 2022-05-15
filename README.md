@@ -11,4 +11,9 @@ Pandas and the Scikit-Learn was use in preprocessing the csv file that was sent 
 * Q1
   The Alphabet Soup application type was used as the target of the model in this analysis.
   
-   ![Image Here]()
+   ![Image Here](https://github.com/Thaofeeqat/Neural_Network_Charity_Analysis/blob/main/Images/app.png)
+   
+* Q2
+
+  The Government organization classification column was used as the features of the model in this analysis.
+  ![Image Here](https://github.com/Thaofeeqat/Neural_Network_Charity_Analysis/blob/main/Images/class.png)
